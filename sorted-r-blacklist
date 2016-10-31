@@ -341,7 +341,7 @@ recipes/bioconductor-jmosaics
 recipes/r-dorng
 recipes/bioconductor-bumphunter
 recipes/r-knitr
-recipes/r-sartools/1.2.0
+# recipes/r-sartools/1.2.0
 recipes/bioconductor-flowai
 recipes/r-sendmailr
 recipes/r-batchjobs
